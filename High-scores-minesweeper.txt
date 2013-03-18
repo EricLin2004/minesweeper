@@ -1,0 +1,2 @@
+Eric, Board: 9, Mines: 2, Time: -27.711506
+Eric, Board: 9, Mines: 3, Time: 1.441554
