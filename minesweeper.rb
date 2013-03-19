@@ -240,5 +240,5 @@ class Board
 end
 
 
-x = Minesweeper.new
-x.run
+y = Minesweeper.new
+y.run
